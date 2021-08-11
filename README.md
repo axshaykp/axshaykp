@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay
 - 👀 I’m interested in breaking,making and (sometimes) fixing things
 - 🌱 I’m currently learning Web Application Hacking
-- 📫 How to reach me axxsh@gmail.com
+- 📫 How to reach me axxsh.kp@gmail.com
 
 <!---
 axxsh/axxsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
