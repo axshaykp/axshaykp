@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Akshay
-- 👀 I’m interested in breaking,making and (sometimes) fixing things
-- 🌱 I’m currently learning Web Application Hacking & Go Programming Language
-- 📫 How to reach me axxsh.kp@gmail.com
+- 👋 Hello world
