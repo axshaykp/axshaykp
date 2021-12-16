@@ -1,4 +1,4 @@
-- 👋 Hello world
+- 👋 Hi, I am Akshay
 
 [Website](https://axxsh.github.io/)
 
