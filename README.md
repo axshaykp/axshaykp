@@ -1,4 +1,4 @@
-- 👋 Hi, I am Akshay
+### 👋 Hi, I am Akshay
 
 [Website](https://axxsh.github.io/)
 
