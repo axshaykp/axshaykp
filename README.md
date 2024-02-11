@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Akshay.
 
-I am working as Web Developer at Mojgenie IT Solutions Pvt Ltd.
+I am working as Software Engineer - Front-End (Next.JS, React.JS) at Staxlabs Inc Pvt Ltd.
 
 [Website](https://akshaykp.in)
 
