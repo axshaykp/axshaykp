@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay!
 
-I'm a passionate **Software Engineer** with expertise in **Front-End** development, specializing in **Next.js** and **React.js**. Currently, I'm contributing my skills and knowledge at Staxlabs Inc Pvt Ltd.
+I'm a passionate **Software Engineer** with expertise in **Front-End** development, specializing in **Next.js**, **Remix** and **React.js**. Currently, I'm contributing my skills and knowledge at Staxlabs Inc Pvt Ltd.
 
 - 🔗 **Website:** [akshaykp.in](https://akshaykp.in)
 - 📧 **Email:** [admin@akshaykp.in](mailto:admin@akshaykp.in)
